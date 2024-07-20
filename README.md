@@ -23,3 +23,7 @@ Compile using release mode.
 .\remoteMappingInjection.exe discord.exe
 Replace discord.exe with a process of your choosing
 ```
+# Notes
+Program in use:
+
+![Photo](images/Success.png)
