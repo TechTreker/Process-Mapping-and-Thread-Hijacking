@@ -24,6 +24,9 @@ Compile using release mode.
 Replace discord.exe with a process of your choosing
 ```
 # Notes
+The point of using the memory mapping technique is to avoid using VirtualAlloc or VirtualAllocEx.\
+The point of hijacking a thread is to avoid using the CreateThread Win API.\
+
 Program in use:
 
 ![Photo](images/Success.png)
