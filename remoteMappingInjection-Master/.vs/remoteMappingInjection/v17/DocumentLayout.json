@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yeyian PC\\Desktop\\Process-Mapping-and-Thread-Hijacking\\remoteMappingInjection-Master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7423ED31-8EC3-4EE5-A7C2-E1E0126B005B}|remoteMappingInjection.vcxproj|C:\\Users\\Yeyian PC\\Desktop\\Process-Mapping-and-Thread-Hijacking\\remoteMappingInjection-Master\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7423ED31-8EC3-4EE5-A7C2-E1E0126B005B}|remoteMappingInjection.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Yeyian PC\\Desktop\\Process-Mapping-and-Thread-Hijacking\\remoteMappingInjection-Master\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\Yeyian PC\\Desktop\\Process-Mapping-and-Thread-Hijacking\\remoteMappingInjection-Master\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-20T19:39:13.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
